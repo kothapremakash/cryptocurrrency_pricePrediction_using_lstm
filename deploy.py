@@ -23,7 +23,6 @@ from tensorflow.keras.layers import LSTM
 
 # For PLotting we will use these library
 
-import matplotlib.pyplot as plt
 from itertools import cycle
 import plotly.graph_objects as go
 import plotly.express as px
